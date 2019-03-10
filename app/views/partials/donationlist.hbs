@@ -1,0 +1,33 @@
+<section class="ui raised segment">
+  <div class="ui grid">
+    <aside class="six wide column">
+      <img src="images/Poulnabronedolmen.png" class="ui medium image">
+    </aside>
+    <article class="eight wide column">
+      <table class="ui celled table segment">
+        <thead>
+          <tr>
+              <th>Image</th>
+              <th>Name</th>
+              <th>County</th>
+              <th>Coordinates</th>
+              <th>Type</th>
+              <th>Age</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{#each dolmens}}
+              <tr>
+                  <td> <img src= {{image}} class="ui tiny image"> </td>
+                  <td> {{name}} </td>
+                  <td> {{county}} </td>
+                  <td> {{coordinates}} </td>
+                  <td> {{type}} </td>
+                  <td> {{age}} </td>
+              </tr>
+          {{/each}}
+        </tbody>
+      </table>
+    </article>
+  </div>
+</section>

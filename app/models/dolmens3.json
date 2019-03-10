@@ -1,0 +1,469 @@
+{
+  "dolmens": {
+    "_model": "Dolmen",
+    "Carnfree": {
+      "image": "images/Carnfree.png",
+      "name": "Carnfree",
+      "county": "Roscommon",
+      "coordinates": "",
+      "type": "court tomb (double)",
+      "age": "-"
+    },
+    "Carrowkeel Tombs": {
+      "image": "images/CarrowkeelTombs.png",
+      "name": "Carrowkeel Tombs",
+      "county": "Sligo",
+      "coordinates": "54°20'31.75?N 5°48'12.52?W",
+      "type": "passage tomb[1]",
+      "age": "-"
+    },
+    "Carrowmore": {
+      "image": "images/Carrowmore.png",
+      "name": "Carrowmore",
+      "county": "Sligo",
+      "coordinates": "51°44'23.23?N 9°53'37.9?W",
+      "type": "stone circle",
+      "age": "-"
+    },
+    "Castlestrange stone": {
+      "image": "images/Castlestrangestone.png",
+      "name": "Castlestrange stone",
+      "county": "Roscommon",
+      "coordinates": "54°22'29.13?N 5°35'58.08?W",
+      "type": "court tomb",
+      "age": "-"
+    },
+    "Faulagh": {
+      "image": "images/Faulagh.png",
+      "name": "Faulagh",
+      "county": "Mayo",
+      "coordinates": "54.896°N 7.041°W",
+      "type": "stone circles",
+      "age": "-"
+    },
+    "Knocknarea": {
+      "image": "images/Knocknarea.png",
+      "name": "Knocknarea",
+      "county": "Sligo",
+      "coordinates": "-",
+      "type": "court tomb",
+      "age": "-"
+    },
+    "Listoghil": {
+      "image": "images/Listoghil.png",
+      "name": "Listoghil",
+      "county": "Sligo",
+      "coordinates": "54.3288°N 5.6463°W",
+      "type": "court tomb",
+      "age": "-"
+    },
+    "Meehambee Dolmen": {
+      "image": "images/MeehambeeDolmen.png",
+      "name": "Meehambee Dolmen",
+      "county": "Roscommon",
+      "coordinates": "[[]]",
+      "type": "Wedge Tomb",
+      "age": ""
+    },
+    "Turoestone": {
+      "image": "images/Turoestone.png",
+      "name": "Turoe stone",
+      "county": "Galway",
+      "coordinates": "54.136696°N 6.471204°W",
+      "type": "portal tomb",
+      "age": "-"
+    },
+    "Ballyedmonduff Wedge Tomb": {
+      "image": "images/BallyedmonduffWedgeTomb.png",
+      "name": "Ballyedmonduff Wedge Tomb",
+      "county": "Dublin",
+      "coordinates": "54°50'30?N 5°46'26?W",
+      "type": "portal tomb",
+      "age": "4000 years"
+    },
+    "Brownshill Dolmen": {
+      "image": "images/BrownshillDolmen.png",
+      "name": "Brownshill Dolmen",
+      "county": "Carlow",
+      "coordinates": "55°0'5.9?N 6°24'15.3?W",
+      "type": "court tomb",
+      "age": "-"
+    },
+    "Dowth": {
+      "image": "images/Dowth.png",
+      "name": "Dowth",
+      "county": "Meath",
+      "coordinates": "54.290937°N 5.726292°W",
+      "type": "stone circle",
+      "age": "-"
+    },
+    "Kilmashogue": {
+      "image": "images/Kilmashogue.png",
+      "name": "Kilmashogue",
+      "county": "Dublin",
+      "coordinates": "54°42'14?N 6°56'11?W",
+      "type": "stone circles, cairns",
+      "age": "-"
+    },
+    "Knowth": {
+      "image": "images/Knowth.png",
+      "name": "Knowth",
+      "county": "Meath",
+      "coordinates": "-",
+      "type": "stone row",
+      "age": "-"
+    },
+    "Lia Fáil": {
+      "image": "images/LiaFáil.png",
+      "name": "Lia Fáil",
+      "county": "Meath",
+      "coordinates": "54°51.025'N 7°36.28'W",
+      "type": "stone circle",
+      "age": "-"
+    },
+    "Loughcrew Cairns": {
+      "image": "images/LoughcrewCairns.png",
+      "name": "Loughcrew Cairns",
+      "county": "Meath",
+      "coordinates": "55.27222°N 7.14805°W",
+      "type": "stone circle",
+      "age": "-"
+    },
+    "Newgrange or Sí an Bhrú": {
+      "image": "images/NewgrangeorSíanBhrú.png",
+      "name": "Newgrange or Sí an Bhrú",
+      "county": "Meath",
+      "coordinates": "51.580102°N 8.998987°W",
+      "type": "stone circle",
+      "age": "-"
+    },
+    "Tibradden": {
+      "image": "images/Tibradden.png",
+      "name": "Tibradden",
+      "county": "Dublin",
+      "coordinates": "-",
+      "type": "portal tomb",
+      "age": "5000–6000 years"
+    },
+    "Townleyhall": {
+      "image": "images/Townleyhall.png",
+      "name": "Townleyhall",
+      "county": "Louth",
+      "coordinates": "-",
+      "type": "cairns, standing stones",
+      "age": "-"
+    },
+    "Ardgroom": {
+      "image": "images/Ardgroom.png",
+      "name": "Ardgroom",
+      "county": "Cork",
+      "coordinates": "-",
+      "type": "stone circles, stone rows",
+      "age": "-"
+    },
+    "Beenalaght": {
+      "image": "images/Beenalaght.png",
+      "name": "Beenalaght",
+      "county": "Cork",
+      "coordinates": "54°03'12?N 8°22'40?W",
+      "type": "passage tombs",
+      "age": "5100–5400 years"
+    },
+    "Bohonagh": {
+      "image": "images/Bohonagh.png",
+      "name": "Bohonagh",
+      "county": "Cork",
+      "coordinates": "54°15'03.08?N 8°31'09.00?W",
+      "type": "various",
+      "age": "-"
+    },
+    "Carrigagulla": {
+      "image": "images/Carrigagulla.png",
+      "name": "Carrigagulla",
+      "county": "Cork",
+      "coordinates": "-",
+      "type": "standing stone",
+      "age": "-"
+    },
+    "Drombeg stone circle": {
+      "image": "images/Drombegstonecircle.png",
+      "name": "Drombeg stone circle",
+      "county": "Cork",
+      "coordinates": "-",
+      "type": "court tomb",
+      "age": "-"
+    },
+    "Eightercua": {
+      "image": "images/Eightercua.png",
+      "name": "Eightercua",
+      "county": "Kerry",
+      "coordinates": "-",
+      "type": "court tomb",
+      "age": "-"
+    },
+    "Glantane East": {
+      "image": "images/GlantaneEast.png",
+      "name": "Glantane East",
+      "county": "Cork",
+      "coordinates": "54.748°N 6.791°W",
+      "type": "stone circles",
+      "age": "-"
+    },
+    "Grange stone circle": {
+      "image": "images/Grangestonecircle.png",
+      "name": "Grange stone circle",
+      "county": "Limerick",
+      "coordinates": "55°00'07?N 6°28'26?W",
+      "type": "passage tomb",
+      "age": "-"
+    },
+    "Knocknakilla": {
+      "image": "images/Knocknakilla.png",
+      "name": "Knocknakilla",
+      "county": "Cork",
+      "coordinates": "53°42'10.5?N 6°26'57?W",
+      "type": "passage tomb",
+      "age": "-"
+    },
+    "Labbacallee": {
+      "image": "images/Labbacallee.png",
+      "name": "Labbacallee",
+      "county": "Cork",
+      "coordinates": "51.564553°N 9.08702°W",
+      "type": "recumbent stone circle",
+      "age": "-"
+    },
+    "Poulnabrone dolmen": {
+      "image": "images/Poulnabronedolmen.png",
+      "name": "Poulnabrone dolmen",
+      "county": "Clare",
+      "coordinates": "54.58443°N 7.69051°W",
+      "type": "stone circle, cairn",
+      "age": "-"
+    },
+    "Templebryan Stone Circle": {
+      "image": "images/TemplebryanStoneCircle.png",
+      "name": "Templebryan Stone Circle",
+      "county": "Cork",
+      "coordinates": "51.81491°N 10.15807°W",
+      "type": "stone row",
+      "age": "3700 years"
+    },
+    "Uragh Stone Circle": {
+      "image": "images/UraghStoneCircle.png",
+      "name": "Uragh Stone Circle",
+      "county": "Kerry",
+      "coordinates": "54.26667°N 9.78333°W",
+      "type": "various",
+      "age": "-"
+    },
+    "Aghanaglack": {
+      "image": "images/Aghanaglack.png",
+      "name": "Aghanaglack",
+      "county": "Fermanagh",
+      "coordinates": "-",
+      "type": "court tomb",
+      "age": "-"
+    },
+    "Annadorn Dolmen": {
+      "image": "images/AnnadornDolmen.png",
+      "name": "Annadorn Dolmen",
+      "county": "Down",
+      "coordinates": "54°32'25?N 5°57'0?W",
+      "type": "passage tomb[2]",
+      "age": "-"
+    },
+    "Audleystown Court Tomb": {
+      "image": "images/AudleystownCourtTomb.png",
+      "name": "Audleystown Court Tomb",
+      "county": "Down",
+      "coordinates": "52.004426°N 9.04485°W",
+      "type": "various",
+      "age": "-"
+    },
+    "Aughlish": {
+      "image": "images/Aughlish.png",
+      "name": "Aughlish",
+      "county": "Derry",
+      "coordinates": "54.21464°N 6.09132°W",
+      "type": "portal tomb",
+      "age": "-"
+    },
+    "Ballinran Court Tomb": {
+      "image": "images/BallinranCourtTomb.png",
+      "name": "Ballinran Court Tomb",
+      "county": "Down",
+      "coordinates": "52°30'51.45?N 8°32'30.45?W",
+      "type": "stone circle",
+      "age": "-"
+    },
+    "Ballyalton Court Tomb": {
+      "image": "images/BallyaltonCourtTomb.png",
+      "name": "Ballyalton Court Tomb",
+      "county": "Down",
+      "coordinates": "54.817718°N 8.4331537°W",
+      "type": "two portal tombs, one court tomb",
+      "age": ""
+    },
+    "Ballykeel Dolmen": {
+      "image": "images/BallykeelDolmen.png",
+      "name": "Ballykeel Dolmen",
+      "county": "Armagh",
+      "coordinates": "-",
+      "type": "wedge tomb, portal tombs, standing stones",
+      "age": "-"
+    },
+    "Ballylumford Dolmen": {
+      "image": "images/BallylumfordDolmen.png",
+      "name": "Ballylumford Dolmen",
+      "county": "Antrim",
+      "coordinates": "52.00680°N 9.02448°W",
+      "type": "stone circle, standing stone",
+      "age": ""
+    },
+    "Ballymacaldrack Court Tomb": {
+      "image": "images/BallymacaldrackCourtTomb.png",
+      "name": "Ballymacaldrack Court Tomb",
+      "county": "Antrim",
+      "coordinates": "54.25891°N 8.57463°W",
+      "type": "various",
+      "age": "-"
+    },
+    "Ballynoe Stone Circle": {
+      "image": "images/BallynoeStoneCircle.png",
+      "name": "Ballynoe Stone Circle",
+      "county": "Down",
+      "coordinates": "53°42'06?N 6°29'30?W",
+      "type": "passage tomb",
+      "age": "-"
+    },
+    "Beaghmore": {
+      "image": "images/Beaghmore.png",
+      "name": "Beaghmore",
+      "county": "Tyrone",
+      "coordinates": "52.16983°N 8.33688°W",
+      "type": "wedge tomb",
+      "age": "-"
+    },
+    "Beltany stone circle": {
+      "image": "images/Beltanystonecircle.png",
+      "name": "Beltany stone circle",
+      "county": "Donegal",
+      "coordinates": "54.323°N 6.020°W",
+      "type": "portal tomb",
+      "age": "-"
+    },
+    "Bocan Stone Circle": {
+      "image": "images/BocanStoneCircle.png",
+      "name": "Bocan Stone Circle",
+      "county": "Donegal",
+      "coordinates": "53°34'39?N 6°36'43?W",
+      "type": "standing stone",
+      "age": "-"
+    },
+    "Cloghanmore": {
+      "image": "images/Cloghanmore.png",
+      "name": "Cloghanmore",
+      "county": "Donegal",
+      "coordinates": "-",
+      "type": "-",
+      "age": "5380–5640 years"
+    },
+    "Cohaw": {
+      "image": "images/Cohaw.png",
+      "name": "Cohaw",
+      "county": "Cavan",
+      "coordinates": "53°46'10?N 7°6'11?W",
+      "type": "cairns",
+      "age": "5300–5500 years"
+    },
+    "Corick": {
+      "image": "images/Corick.png",
+      "name": "Corick",
+      "county": "Derry",
+      "coordinates": "-",
+      "type": "various",
+      "age": "-"
+    },
+    "Craigs Dolmen": {
+      "image": "images/CraigsDolmen.png",
+      "name": "Craigs Dolmen",
+      "county": "Antrim",
+      "coordinates": "-",
+      "type": "portal tomb",
+      "age": "5500 years"
+    },
+    "Drumskinny": {
+      "image": "images/Drumskinny.png",
+      "name": "Drumskinny",
+      "county": "Fermanagh",
+      "coordinates": "-",
+      "type": "passage tomb, cairn",
+      "age": "-"
+    },
+    "Gartnanoul": {
+      "image": "images/Gartnanoul.png",
+      "name": "Gartnanoul",
+      "county": "Cavan",
+      "coordinates": "53°41'39.73?N 6°28'30.11?W",
+      "type": "passage tomb",
+      "age": "5000 years"
+    },
+    "Giant's Ring": {
+      "image": "images/Giant'sRing.png",
+      "name": "Giant's Ring",
+      "county": "Down",
+      "coordinates": "53°2′55.83″N 9°8′23.83″W",
+      "type": "portal tomb",
+      "age": "-"
+    },
+    "Goward Dolmen": {
+      "image": "images/GowardDolmen.png",
+      "name": "Goward Dolmen",
+      "county": "Down",
+      "coordinates": "-",
+      "type": "portal tomb",
+      "age": "-"
+    },
+    "Kilclooney More": {
+      "image": "images/KilclooneyMore.png",
+      "name": "Kilclooney More",
+      "county": "Donegal",
+      "coordinates": "51.64316°N 8.88335°W",
+      "type": "stone circle",
+      "age": "-"
+    },
+    "Legananny Dolmen": {
+      "image": "images/LeganannyDolmen.png",
+      "name": "Legananny Dolmen",
+      "county": "Down",
+      "coordinates": "53°14'20.15?N 6°16'52.74?W",
+      "type": "passage tomb",
+      "age": "-"
+    },
+    "Magh Slécht": {
+      "image": "images/MaghSlécht.png",
+      "name": "Magh Slécht",
+      "county": "Cavan",
+      "coordinates": "-",
+      "type": "passage tomb",
+      "age": "-"
+    },
+    "Moylehid": {
+      "image": "images/Moylehid.png",
+      "name": "Moylehid",
+      "county": "Fermanagh",
+      "coordinates": "53°15'N 8°33'W",
+      "type": "standing stone",
+      "age": "-"
+    },
+    "Slidderyford Dolmen": {
+      "image": "images/SlidderyfordDolmen.png",
+      "name": "Slidderyford Dolmen",
+      "county": "Down",
+      "coordinates": "51°48′42.23″N 9°41′37.74″W",
+      "type": "stone circle",
+      "age": "-"
+    }
+  }
+}
